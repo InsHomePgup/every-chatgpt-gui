@@ -7,14 +7,14 @@ If you want to add your app, feel free to open a pull request to add your app to
 ## Open Source
 
 ### Web
-- AI Chat | [demo](https://aichat.ksdev.pl) | [source](https://github.com/ksdev-pl/ai-chat)
-- AI Belvedere | [demo](https://ai-belvedere-demo.alergant.us) | [source](https://github.com/DmitriyAlergant-T1A/ai-belvedere/)
-- BetterChatGPT | [demo](https://bettergpt.chat/) | [source](https://github.com/ztjhz/BetterChatGPT)
-- big-AGI | [demo](https://big-agi.com) | [source](https://github.com/enricoros/big-agi)
-- claude-ui | [source](https://github.com/chihebnabil/claude-ui)
-- Chatbot UI | [demo](https://www.chatbotui.com/) | [source](https://github.com/mckaywrigley/chatbot-ui)
-- ChatGPT AI Template | [demo](https://horizon-ui.com/chatgpt-ai-template/) | [source](https://github.com/horizon-ui/chatgpt-ai-template)
-- ChatGPT-API Demo | [demo](https://chatgpt.ddiu.me/) | [source](https://github.com/ddiu8081/chatgpt-demo)
+- AI Chat | [demo](https://aichat.ksdev.pl) | [source](https://github.com/ksdev-pl/ai-chat)  Vue
+- AI Belvedere | [demo](https://ai-belvedere-demo.alergant.us) | [source](https://github.com/DmitriyAlergant-T1A/ai-belvedere/) React
+- BetterChatGPT | [demo](https://bettergpt.chat/) | [source](https://github.com/ztjhz/BetterChatGPT) React
+- big-AGI | [demo](https://big-agi.com) | [source](https://github.com/enricoros/big-agi)  Next
+- claude-ui | [source](https://github.com/chihebnabil/claude-ui)   Nuxt
+- Chatbot UI | [demo](https://www.chatbotui.com/) | [source](https://github.com/mckaywrigley/chatbot-ui) Next
+- ChatGPT AI Template | [demo](https://horizon-ui.com/chatgpt-ai-template/) | [source](https://github.com/horizon-ui/chatgpt-ai-template) Next
+- ChatGPT-API Demo | [demo](https://chatgpt.ddiu.me/) | [source](https://github.com/ddiu8081/chatgpt-demo) Solid
 - ChatGPT Cloned | [demo](https://chat-gpt-cloned.netlify.app/) | [source](https://github.com/PrasadBroo/ChatGPT)
 - ChatGPT Lite | [demo](https://gptlite.vercel.app) | [source](https://github.com/blrchen/chatgpt-lite)
 - ChatGPT Minimal | [demo](https://chatgpt-minimal.vercel.app) | [source](https://github.com/blrchen/chatgpt-minimal)
